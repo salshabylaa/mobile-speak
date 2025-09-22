@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717985502290",
+    "project_id": "speak-project-rpla",
+    "storage_bucket": "speak-project-rpla.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717985502290:android:331998a04e0e32446cbb8b",
+        "android_client_info": {
+          "package_name": "com.example.speak_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhCr8OcYw2xZWNytCNsdP_43MFzzVCpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
